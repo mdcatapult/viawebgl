@@ -1,11 +1,11 @@
 {
-  "name": "viawebgl",
-  "version": "1.0.2",
+  "name": "mdc-viawebgl",
+  "version": "0.0.2",
   "description": "Colorize and thresshold images.",
   "main": "tools/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thejohnhoffer/viaWebGL.git"
+    "url": "git+https://github.com/mdcatapult/viawebgl.git"
   },
   "keywords": [
     "openseadragon",
@@ -16,12 +16,12 @@
   "author": "John Hoffer",
   "license": "LICENSE",
   "bugs": {
-    "url": "https://github.com/thejohnhoffer/viaWebGL/issues"
+    "url": "https://github.com/mdcatapult/viawebgl/issues"
   },
   "homepage": "https://github.com/thejohnhoffer/viaWebGL",
   "dependencies": {
     "upng-js": "^2.1.0",
-    "openseadragon": "2.3.1"
+    "openseadragon": "git://github.com/thejohnhoffer/openseadragon.git#webgl2"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

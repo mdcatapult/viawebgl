@@ -56,10 +56,10 @@ image.src = '../file.type';
 [5]: tools/viaWebGL.js
 [6]: tools/openSeadragonGL.js
 [7]: https://openseadragon.github.io
-[9]: ../master/demo/images/toggle.png?raw=true
-[10]: ../master/demo/images/toggle0.png?raw=true
+[9]: ./demo/images/toggle.png?raw=true
+[10]: ./demo/images/toggle0.png?raw=true
 [11]: https://github.com/thejohnhoffer/viaWebGL/wiki/Guide-to-openSeadragonGL#seagladdhandlereventname-tile-handler
 [16]: https://github.com/thejohnhoffer/viaWebGL/wiki
 [13]: https://github.com/thejohnhoffer/viaWebGL/releases
-[15]: ../master/demo/images/VCG.png?raw=true
+[15]: ./demo/images/VCG.png?raw=true
 [14]: http://vcg.seas.harvard.edu
